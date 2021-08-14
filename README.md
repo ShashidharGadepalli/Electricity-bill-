@@ -17,4 +17,4 @@ The program is basically divided into 5 options:
 
 The CA no is generated using randomize function and is different for everyone. The records of the consumers are stored separately in a .bak file extension.
 
-The concept of the program can be applied to various other similar programs like Library management system,Parking management system, Bank System and various other similar topics.
+The concept of the program can be applied to various other similar programs like Library management system,Parking management system, Bank System etc.
